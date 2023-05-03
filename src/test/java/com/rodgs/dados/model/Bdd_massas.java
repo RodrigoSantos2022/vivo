@@ -33,6 +33,7 @@ public class Bdd_massas {
     public String setNAME_PRODUCT(String NAME_PRODUCT) {
         this.NAME_PRODUCT = NAME_PRODUCT;
         return NAME_PRODUCT;
+        
     }
 
     public int getIDMASSAS() {
